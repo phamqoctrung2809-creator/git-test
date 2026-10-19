@@ -8,3 +8,4 @@ Repo đầu tiên của mình để học Git và GitHub.
 - Học git push
 - Con chim non
 - Thay doi dau tien#
+thay doi thu 2
