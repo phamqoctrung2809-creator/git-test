@@ -7,5 +7,5 @@ Repo đầu tiên của mình để học Git và GitHub.
 - Học git commit
 - Học git push
 - Thay doi dau tien
-Thay doi thu 2
+- Thay doi thu 2
 
